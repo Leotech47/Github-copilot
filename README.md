@@ -162,3 +162,46 @@ Você já teve a oportunidade de testar o GitHub Copilot Chat ou o Copilot Works
 
 ---
 
+Atualmente, o GitHub Copilot utiliza diferentes modelos de IA (models), e alguns deles podem ser acessados em versões "preview" (prévia), dependendo do ambiente (IDE, Copilot Chat, Copilot Enterprise) e das configurações liberadas para sua conta. Veja um resumo dos modelos e previews disponíveis:
+
+## Modelos Disponíveis
+
+1. OpenAI Codex (series 1 e 2)
+   - Modelo original do Copilot, especializado em geração de código.
+   - Base de funcionamento do Copilot tradicional (autocompletar, sugestões inline).
+
+2. GPT-3.5
+   - Utilizado em algumas versões do Copilot Chat.
+   - Mais amplo que o Codex, com melhor compreensão de linguagem natural.
+
+3. GPT-4 / GPT-4 Turbo / GPT-4o (Omni)
+   - Modelos de última geração, utilizados no Copilot Chat, Copilot for Docs e Copilot Workspace.
+   - Oferecem respostas mais precisas, explicações melhores e maior contexto.
+   - A versão GPT-4o é ainda mais rápida e econômica, com respostas multimodais (texto, imagem, etc.).
+
+4. Modelos Personalizados (Copilot Enterprise)
+   - Para empresas, pode haver modelos ajustados (fine-tuned) com base no código privado da organização.
+
+## Previews (Prévias) Ativos
+
+- Copilot Chat (Preview)
+  - Chatbot interativo disponível no Visual Studio Code, JetBrains, GitHub.com e Copilot Workspace.
+  - Permite conversar, pedir explicações e gerar/refatorar código.
+
+- Copilot Workspace (Preview)
+  - Ambiente completo para planejar, gerar, revisar e executar mudanças de código usando IA.
+  - Utiliza modelos avançados (GPT-4/4o) e inclui integração com comandos naturais.
+
+- Copilot for Docs (Preview)
+  - Busca e responde dúvidas diretamente na documentação do repositório usando IA.
+
+- Copilot Enterprise (Preview)
+  - Disponível para organizações elegíveis.
+  - Permite integração com código privado e customização do comportamento do modelo.
+
+## Observações
+
+- O acesso a determinados modelos e previews depende do tipo de assinatura (Individual, Business, Enterprise) e de habilitações realizadas pela Microsoft/GitHub.
+- Novos previews são lançados frequentemente. Recomenda-se acompanhar o blog oficial do GitHub Copilot e a documentação para novidades.
+
+Se quiser saber como verificar qual modelo está ativo no seu Copilot ou como ativar algum preview específico, posso te orientar!
